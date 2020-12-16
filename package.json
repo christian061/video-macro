@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/christian061/video-macro/issues"
   },
-  "homepage": "https://github.com/christian061/video-macro#readme"
+  "homepage": "https://github.com/christian061/video-macro#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
